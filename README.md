@@ -1,1 +1,2 @@
 # Random-Quote-Generator
+This project contains multiple functions that is using an array of objects to return a random selected quote to the html page.and The container  background color changes with changing to new quotes.
